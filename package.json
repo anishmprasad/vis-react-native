@@ -2,24 +2,24 @@
 	"_args": [
 		[
 			{
-				"raw": "vis-react-native@^0.0.1",
+				"raw": "vis-react-native@^0.0.2",
 				"scope": null,
 				"escapedName": "vis-react-native",
 				"name": "vis-react-native",
-				"rawSpec": "^0.0.1",
-				"spec": ">=0.0.1 <0.0.1",
+				"rawSpec": "^0.0.2",
+				"spec": ">=0.0.2 <0.0.2",
 				"type": "range"
 			}
 		]
 	],
-	"_from": "vis-react-native@>=0.0.1 <0.0.1",
-	"_id": "vis-react-native@0.0.1",
+	"_from": "vis-react-native@>=0.0.2 <0.0.2",
+	"_id": "vis-react-native@0.0.2",
 	"_inCache": true,
 	"_location": "/vis-react-native",
 	"_nodeVersion": "7.10.0",
 	"_npmOperationalInternal": {
 		"host": "s3://npm-registry-packages",
-		"tmp": "tmp/vis-react-native-0.0.1.tgz_1496238181363_0.8129479601047933"
+		"tmp": "tmp/vis-react-native-0.0.2.tgz_1496238181363_0.8129479601047933"
 	},
 	"_npmUser": {
 		"name": "anish",
@@ -28,21 +28,21 @@
 	"_npmVersion": "4.2.0",
 	"_phantomChildren": {},
 	"_requested": {
-		"raw": "vis-react-native@^0.0.1",
+		"raw": "vis-react-native@^0.0.2",
 		"scope": null,
 		"escapedName": "vis-react-native",
 		"name": "vis-react-native",
-		"rawSpec": "^0.0.1",
-		"spec": ">=0.0.1 <0.0.1",
+		"rawSpec": "^0.0.2",
+		"spec": ">=0.0.2 <0.0.2",
 		"type": "range"
 	},
 	"_requiredBy": [
 		"#DEV:/"
 	],
-	"_resolved": "https://registry.npmjs.org/vis-react-native/-/vis-react-native-0.0.1.tgz",
+	"_resolved": "https://registry.npmjs.org/vis-react-native/-/vis-react-native-0.0.2.tgz",
 	"_shasum": "5c9afbdf12242ab499d8bd2fbfeeb1433c441fae",
 	"_shrinkwrap": null,
-	"_spec": "vis-react-native@^0.0.1",
+	"_spec": "vis-react-native@^0.0.2",
 	"author": {
 		"name": "Anish M Prasad",
 		"email": "anish.m.prasad@gmail.com",
@@ -65,7 +65,7 @@
 	"directories": {},
 	"dist": {
 		"shasum": "5c9afbdf12242ab499d8bd2fbfeeb1433c441fae",
-		"tarball": "https://registry.npmjs.org/vis-react-native/-/vis-react-native-0.0.1.tgz"
+		"tarball": "https://registry.npmjs.org/vis-react-native/-/vis-react-native-0.0.2.tgz"
 	},
 	"gitHead": "e037c5e7e6b3c84a55d1e13e7cd64e81ebf6e3b0",
 	"homepage": "https://github.com/anishmprasad/vis-react-native#readme",
@@ -97,5 +97,5 @@
 		"url": "git+https://github.com/anishmprasad/vis-react-native.git"
 	},
 	"scripts": {},
-	"version": "0.0.1"
+	"version": "0.0.2"
 }
