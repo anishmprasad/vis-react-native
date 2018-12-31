@@ -2,24 +2,24 @@
 	"_args": [
 		[
 			{
-				"raw": "vis-react@^0.4.3",
+				"raw": "vis-react-native@^0.0.1",
 				"scope": null,
-				"escapedName": "vis-react",
-				"name": "vis-react",
-				"rawSpec": "^0.4.3",
-				"spec": ">=0.4.3 <0.4.3",
+				"escapedName": "vis-react-native",
+				"name": "vis-react-native",
+				"rawSpec": "^0.0.1",
+				"spec": ">=0.0.1 <0.0.1",
 				"type": "range"
 			}
 		]
 	],
-	"_from": "vis-react@>=0.4.3 <0.4.3",
-	"_id": "vis-react@0.4.3",
+	"_from": "vis-react-native@>=0.0.1 <0.0.1",
+	"_id": "vis-react-native@0.0.1",
 	"_inCache": true,
-	"_location": "/vis-react",
+	"_location": "/vis-react-native",
 	"_nodeVersion": "7.10.0",
 	"_npmOperationalInternal": {
 		"host": "s3://npm-registry-packages",
-		"tmp": "tmp/vis-react-0.4.3.tgz_1496238181363_0.8129479601047933"
+		"tmp": "tmp/vis-react-native-0.0.1.tgz_1496238181363_0.8129479601047933"
 	},
 	"_npmUser": {
 		"name": "anish",
@@ -28,28 +28,28 @@
 	"_npmVersion": "4.2.0",
 	"_phantomChildren": {},
 	"_requested": {
-		"raw": "vis-react@^0.4.3",
+		"raw": "vis-react-native@^0.0.1",
 		"scope": null,
-		"escapedName": "vis-react",
-		"name": "vis-react",
-		"rawSpec": "^0.4.3",
-		"spec": ">=0.4.3 <0.4.3",
+		"escapedName": "vis-react-native",
+		"name": "vis-react-native",
+		"rawSpec": "^0.0.1",
+		"spec": ">=0.0.1 <0.0.1",
 		"type": "range"
 	},
 	"_requiredBy": [
 		"#DEV:/"
 	],
-	"_resolved": "https://registry.npmjs.org/vis-react/-/vis-react-0.4.3.tgz",
+	"_resolved": "https://registry.npmjs.org/vis-react-native/-/vis-react-native-0.0.1.tgz",
 	"_shasum": "5c9afbdf12242ab499d8bd2fbfeeb1433c441fae",
 	"_shrinkwrap": null,
-	"_spec": "vis-react@^0.4.3",
+	"_spec": "vis-react-native@^0.0.1",
 	"author": {
 		"name": "Anish M Prasad",
 		"email": "anish.m.prasad@gmail.com",
 		"url": "http://www.anishmprasad.com/"
 	},
 	"bugs": {
-		"url": "https://github.com/anishmprasad/vis-react/issues"
+		"url": "https://github.com/anishmprasad/vis-react-native/issues"
 	},
 	"dependencies": {
 		"lodash": "^4.17.4",
@@ -65,10 +65,10 @@
 	"directories": {},
 	"dist": {
 		"shasum": "5c9afbdf12242ab499d8bd2fbfeeb1433c441fae",
-		"tarball": "https://registry.npmjs.org/vis-react/-/vis-react-0.4.3.tgz"
+		"tarball": "https://registry.npmjs.org/vis-react-native/-/vis-react-native-0.0.1.tgz"
 	},
 	"gitHead": "e037c5e7e6b3c84a55d1e13e7cd64e81ebf6e3b0",
-	"homepage": "https://github.com/anishmprasad/vis-react#readme",
+	"homepage": "https://github.com/anishmprasad/vis-react-native#readme",
 	"keywords": [
 		"react-component",
 		"react",
@@ -85,7 +85,7 @@
 			"email": "anish.m.prasad@gmail.com"
 		}
 	],
-	"name": "vis-react",
+	"name": "vis-react-native",
 	"optionalDependencies": {},
 	"peerDependencies": {
 		"react": "^16.0.0",
@@ -94,8 +94,8 @@
 	"readme": "ERROR: No README data found!",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/anishmprasad/vis-react.git"
+		"url": "git+https://github.com/anishmprasad/vis-react-native.git"
 	},
 	"scripts": {},
-	"version": "0.4.3"
+	"version": "0.0.1"
 }
